@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SSM" />
+        <module name="domain" />
+        <module name="dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dao" target="16" />
+      <module name="domain" target="16" />
+      <module name="maven_parent" target="16" />
+      <module name="maven_patent" target="16" />
+      <module name="SSM" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
