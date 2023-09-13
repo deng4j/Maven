@@ -128,6 +128,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.12.4</version>
                 <configuration>
+                    <!--跳过测试-->
                     <skipTests>true</skipTests>
                     <!--排除不参与测试的包-->
                     <excludes>

@@ -7,7 +7,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/maven_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/maven_parent/SSM/pom.xml" />
       </list>
     </option>
   </component>

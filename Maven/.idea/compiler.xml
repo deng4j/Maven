@@ -15,7 +15,6 @@
       <module name="dao" target="16" />
       <module name="domain" target="16" />
       <module name="maven_parent" target="16" />
-      <module name="maven_patent" target="16" />
       <module name="SSM" target="16" />
     </bytecodeTargetLevel>
   </component>

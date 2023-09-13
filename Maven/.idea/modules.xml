@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Maven.iml" filepath="$PROJECT_DIR$/.idea/Maven.iml" />
-      <module fileurl="file://$PROJECT_DIR$/maven_parent/spring6_SSM/SSM.iml" filepath="$PROJECT_DIR$/maven_parent/spring6_SSM/SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_parent/SSM/SSM.iml" filepath="$PROJECT_DIR$/maven_parent/SSM/SSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven_parent/dao/dao.iml" filepath="$PROJECT_DIR$/maven_parent/dao/dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven_parent/domain/domain.iml" filepath="$PROJECT_DIR$/maven_parent/domain/domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven_parent/maven_parent.iml" filepath="$PROJECT_DIR$/maven_parent/maven_parent.iml" />
